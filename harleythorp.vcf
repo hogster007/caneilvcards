@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Thorp;Harley;;;
+FN:Harley Thorp
+ORG:CANEIL Asset Integrity Management
+ADR;TYPE=WORK:32731 Egypt Ln
+Unit 104 Magnolia
+TX 77345
+TITLE:Tank Integrity Manager
+TEL;TYPE=CELL:5873377668
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:harley.thorp@caneil.com
+URL;TYPE=Digital Business Card:
+URL:https://caneil.com/
+URL;TYPE=Website:https://caneil.com/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:At CANEIL, we are the single source for all asset integrity needs. We guarantee peace of mind throughout the lifetime of your assets. Our expert teams are capable of visual inspection, non-destructive testing (NDE/NDT), and a broad range of engineering support services across North America.
+UID:EnBizCard-100822829
+END:VCARD
